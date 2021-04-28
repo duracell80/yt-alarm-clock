@@ -30,4 +30,4 @@ Change Directory into the mp3 directory and copy out the files from there to the
 Set an alarm on your device to play from a file on the card. See your owners manual.
 
 ## Copyright and Creative Commons
-I don't support the use of YoutubeDL to rip streams. It's possible to search supported sites for material that is published under the Creative Commons reuse licence. While this script is preconfigured to download audio from supported sites using the youtube-dl library ... the intention of the script is to easily allow the legal use of audio for scheduling alarms to wake to that audio. In the case of Apollo 11 mission audio ... falling asleep or room ambeince.
+I don't support the use of YoutubeDL to rip streams. It's possible to search supported sites for material that is published under the Creative Commons reuse licence. While this script is preconfigured to download audio from supported sites using the youtube-dl library ... the intention of the script is to easily allow the legal use of offline audio for scheduling alarms to wake to that audio. In the case of Apollo 11 mission audio ... falling asleep or room ambeince.
